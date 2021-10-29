@@ -1,6 +1,6 @@
 # API Monitor
  A program that monitors the performance of multiple APIs and visualizes them with graphs.
- ![samplegraph](https://puu.sh/I0Wqj/02f07438a6.png)
+ ![samplegraph](https://puu.sh/IlAEs/630efbacaf.jpg)
 ## Installation
 1. Install docker
 2. For each API (api1, api2) go into its folder and run the corresponding command:
